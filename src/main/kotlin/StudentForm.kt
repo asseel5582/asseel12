@@ -1,6 +1,6 @@
 data class StudentForm(
-    var name: String = "",
-    var lastName: String = "",
-    var age: String = "",
-    var university: String = "",
+    var name: String = "asseel",
+    var lastName: String = "alomran",
+    var age: String = "23",
+    var university: String = "ahu",
 )
