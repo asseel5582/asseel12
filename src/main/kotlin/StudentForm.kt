@@ -3,4 +3,5 @@ data class StudentForm(
     var lastName: String = "alomran",
     var age: String = "23",
     var university: String = "ahu",
+
 )
